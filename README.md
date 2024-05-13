@@ -18,7 +18,7 @@ python oceanfarming.py
 # How To Get access_token :
 
 - Backup Pharse wallet => Logout
-- Devtools/Inspect/F12 => Network => {!}add => klik kanan => Preview => copy access_token
+- Devtools/Inspect/F12 => Network => {!}add => Preview => copy access_token
 - paste di data.txt
 
 Contoh :
