@@ -1,6 +1,6 @@
-$ BOT OCEAN AUTO FARMING
+# BOT OCEAN AUTO FARMING
 
-Register BOT
+# Register BOT
 - [LINK](https://t.me/waveonsuibot/walletapp?startapp=1748434)
 
 # AirDrop Family IDN
