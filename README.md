@@ -1,5 +1,7 @@
 # BOT OCEAN AUTO FARMING
 
+[![AIRDROP FAMILY IDN](https://img001.prntscr.com/file/img001/ERL8vtepQISlXeR3G86zPQ.png)(https://github.com/AirDropFamilyIDN/oceanbot)
+
 # Register BOT
 - [LINK](https://t.me/waveonsuibot/walletapp?startapp=1748434)
 
