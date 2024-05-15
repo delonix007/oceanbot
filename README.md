@@ -5,6 +5,9 @@
 # Register BOT
 - [LINK](https://t.me/waveonsuibot/walletapp?startapp=1748434)
 
+# TUTORIAL VIDEO
+- https://www.youtube.com/watch?v=Ut_3wfbTRag&t=6s
+
 # AirDrop Family IDN
 - https://t.me/AirDropFamilyIDN
 
