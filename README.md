@@ -22,7 +22,7 @@ python oceanfarming.py
 
 # How To Get access_token :
 
-- Backup Pharse wallet => Logout
+- Backup Pharse wallet => Logout => Login
 - Devtools/Inspect/F12 => Network => {!}add => Preview => copy access_token
 - paste di data.txt
 
